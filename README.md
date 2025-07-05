@@ -7,7 +7,7 @@ A simple and elegant analog clock built using **HTML**, **CSS**, and **JavaScrip
 
 ## Demo
 
-![Demo Link](https://tanushachoudhary.github.io/analog-clock/) <!-- Replace with your own screenshot if available -->
+[Demo Link](https://tanushachoudhary.github.io/analog-clock/) <!-- Replace with your own screenshot if available -->
 
 ## Features
 
